@@ -1,0 +1,9 @@
+package Strings;
+import java.util.Scanner;
+public class NameHasA {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        String name = input.nextLine();
+
+    }
+}
